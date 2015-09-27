@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-hans"
+"ResourceDimensions"		"language-zh-cn"
+
+[Files]
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\split.language-zh-hans.pri"			"resources.pri"

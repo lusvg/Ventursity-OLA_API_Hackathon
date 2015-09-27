@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\filemap.scale-180.pri"			"resources.pri"
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\PackageLayout\Assets\StoreLogo.scale-180.png"			"Assets\StoreLogo.scale-180.png"
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\PackageLayout\Assets\SmallLogo.scale-180.png"			"Assets\SmallLogo.scale-180.png"
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\PackageLayout\Assets\Logo.scale-180.png"			"Assets\Logo.scale-180.png"

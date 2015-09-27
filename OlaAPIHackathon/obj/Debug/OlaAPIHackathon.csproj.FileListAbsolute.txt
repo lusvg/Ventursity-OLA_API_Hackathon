@@ -1,0 +1,10 @@
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\OlaAPIHackathon.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\OlaAPIHackathon.pdb
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Cirrious.CrossCore.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Cirrious.MvvmCross.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Cirrious.MvvmCross.Plugins.Location.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Newtonsoft.Json.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\Newtonsoft.Json.xml
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\obj\Debug\OlaAPIHackathon.dll
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\obj\Debug\OlaAPIHackathon.pdb

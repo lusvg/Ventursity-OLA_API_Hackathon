@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-bn"
+"ResourceDimensions"		"language-bn-in"
+"ResourceDimensions"		"language-bn-bd"
+
+[Files]
+"D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x64\Release\split.language-bn.pri"			"resources.pri"

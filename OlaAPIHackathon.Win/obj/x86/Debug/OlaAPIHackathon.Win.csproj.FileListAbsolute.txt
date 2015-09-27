@@ -1,0 +1,10 @@
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\App.g.i.cs
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\App.g.cs
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\Views\FirstView.g.i.cs
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\Views\FirstView.g.cs
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\App.xaml
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\App.xbf
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\XamlSaveStateFile.xml
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\Views\FirstView.xaml
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\x86\Debug\Views\FirstView.xbf

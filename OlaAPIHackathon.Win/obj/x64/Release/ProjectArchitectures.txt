@@ -1,0 +1,2 @@
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\OlaAPIHackathon.Win.csproj;x64
+D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.csproj;neutral

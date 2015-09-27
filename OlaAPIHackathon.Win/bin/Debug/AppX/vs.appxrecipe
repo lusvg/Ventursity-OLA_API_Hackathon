@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHARMAG</Machine>
+    <WindowsUser>MyPC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>698be731-24d0-4d60-809b-fb20b5788035</PackageIdentityName>
+    <IntermediateOutputPath>D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CAA5707E623363AA2ADE96967D7C467B2758AA4EEBFE5D6475CD78BBE87882B9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>698be731-24d0-4d60-809b-fb20b5788035_1.0.0.0_neutral__eqp4gwxcrckt0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>698be731-24d0-4d60-809b-fb20b5788035_eqp4gwxcrckt0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>698be731-24d0-4d60-809b-fb20b5788035</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MyPC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T22:51:53.566</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\OlaAPIHackathon.Win.exe">
+      <PackagePath>OlaAPIHackathon.Win.exe</PackagePath>
+      <Modified>2015-09-26T22:51:47.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2015-09-26T06:55:22.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+      <Modified>2015-09-26T06:55:22.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.1\lib\win81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2015-09-26T06:55:23.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2015-09-26T06:55:22.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.Plugin.Location.3.5.1\lib\win81\Cirrious.MvvmCross.Plugins.Location.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Location.dll</PackagePath>
+      <Modified>2015-09-26T20:40:28.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.Plugin.Location.3.5.1\lib\win81\Cirrious.MvvmCross.Plugins.Location.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Location.WindowsCommon.dll</PackagePath>
+      <Modified>2015-09-26T20:40:29.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.1\lib\win81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+      <Modified>2015-09-26T06:55:23.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-09-26T15:20:21.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon\bin\Debug\OlaAPIHackathon.dll">
+      <PackagePath>OlaAPIHackathon.dll</PackagePath>
+      <Modified>2015-09-26T21:37:47.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\CarCategories\mini.png">
+      <PackagePath>Assets\CarCategories\mini.png</PackagePath>
+      <Modified>2015-09-26T20:23:01.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\CarCategories\prime.png">
+      <PackagePath>Assets\CarCategories\prime.png</PackagePath>
+      <Modified>2015-09-26T20:23:01.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\CarCategories\sedan.png">
+      <PackagePath>Assets\CarCategories\sedan.png</PackagePath>
+      <Modified>2015-09-26T20:23:01.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Images\background.png">
+      <PackagePath>Assets\Images\background.png</PackagePath>
+      <Modified>2015-09-26T22:29:20.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Images\Car.png">
+      <PackagePath>Assets\Images\Car.png</PackagePath>
+      <Modified>2015-09-26T22:18:11.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Images\dashboard.png">
+      <PackagePath>Assets\Images\dashboard.png</PackagePath>
+      <Modified>2015-09-26T21:56:09.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Images\Logo.png">
+      <PackagePath>Assets\Images\Logo.png</PackagePath>
+      <Modified>2015-09-26T22:48:24.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Images\reporticon.png">
+      <PackagePath>Assets\Images\reporticon.png</PackagePath>
+      <Modified>2015-09-26T22:26:14.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T07:48:19.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-26T21:27:35.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+      <Modified>2015-09-26T22:51:46.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\OlaAPIHackathon.Win.xr.xml">
+      <PackagePath>OlaAPIHackathon.Win.xr.xml</PackagePath>
+      <Modified>2015-09-26T22:51:45.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OlaAPIHackathon\OlaAPIHackathon\OlaAPIHackathon.Win\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-26T22:51:50.408</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="698be731-24d0-4d60-809b-fb20b5788035" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>80, 100</Scale>
+			<Language>EN-US, EN-GB, EN</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Bing.Maps">
+			<ResourceMapSubtree name="resources">
+				<NamedResource name="Breadcrumb_CurrentIcon" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Breadcrumb_CurrentIcon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>返回到上一位置</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Breadcrumb_World" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Breadcrumb_World">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>世界</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CloseButton_AccessibilityName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/CloseButton_AccessibilityName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>close</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>关闭</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_AvoidHighwaysText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_AvoidHighwaysText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Avoid highways</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Avoid motorways</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Avoid highways</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_AvoidTollsText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_AvoidTollsText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DestinationNotFound" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DestinationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The To location you entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The To location you've entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The To location you entered cannot be found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DestinationTextBox" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DestinationTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DirectionsDisclaimer" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DirectionsDisclaimer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DirectionsTaskButton" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DirectionsTaskButton">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DistanceUnitsOnly" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DistanceUnitsOnly">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DoDirectionsButtonName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DoDirectionsButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DoDirectionsButtonToolTip" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DoDirectionsButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DrivingPrefix" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_DrivingPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_FeetNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_FeetNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Foot" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_Foot">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_FootNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_FootNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Kilometer" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_Kilometer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_KilometerNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_KilometerNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Kilometer</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Kilometre</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Kilometer</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_KilometersNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_KilometersNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Kilometers</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Kilometres</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Kilometers</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Meter" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_Meter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MeterNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_MeterNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>meter</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>metre</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>meter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MetersNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_MetersNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>meters</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>metres</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>meters</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Mile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_Mile">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>mi</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>mi</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MileNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_MileNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MilesNonAbbreviated" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_MilesNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MissingStartEndError" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_MissingStartEndError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Options_HeaderText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_Options_HeaderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_OriginAndDestinationNotFound" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_OriginAndDestinationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The From and To locations you entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The From and To locations you've entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The From and To locations you entered cannot be found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_OriginTextBox" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_OriginTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_PreferenceText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_PreferenceText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RideAndExitAt" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_RideAndExitAt">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewDriving" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_RouteOverviewDriving">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} driving</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewOther" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_RouteOverviewOther">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewWalking" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_RouteOverviewWalking">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} walking</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteSummaryLink" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_RouteSummaryLink">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_ScheduledArrival" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_ScheduledArrival">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_ScheduledDeparture" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_ScheduledDeparture">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_SwapButtonName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_SwapButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_SwapButtonToolTip" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_SwapButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TakeBus" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TakeBus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TakeTrain" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TakeTrain">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TaskButton" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TaskButton">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TermsOfUse" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TermsOfUse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeInHr" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TimeInHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeLessThanOneHr" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TimeLessThanOneHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeLessThanOneMin" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TimeLessThanOneMin">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeMoreThanOneHr" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TimeMoreThanOneHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitDisclaimer" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitDisclaimer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitItineraryTitle" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitItineraryTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeArriveBy" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitModeArriveBy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeDepartAt" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitModeDepartAt">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Depart by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Depart by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Depart at</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeLatestAvailable" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitModeLatestAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeLeaveNow" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitModeLeaveNow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitOptionsTitle" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitOptionsTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitPrefix" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Transit</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Public Transport</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Transit</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitToday" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_TransitToday">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingDistanceFrom" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_WalkingDistanceFrom">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Walk {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingInstruction" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_WalkingInstruction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingPrefix" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Directions_WalkingPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidCredentials_Dev_Link" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/InvalidCredentials_Dev_Link">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>http://www.bingmapsportal.com</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Invalidcredentials_Text" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Invalidcredentials_Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>指定的凭据无效。您可以在以下位置注册免费的开发人员帐户:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo_Accessibility_Name_Format" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/Logo_Accessibility_Name_Format">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{Bing},  {Nokia}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Accessibility_Name" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapLogo_Accessibility_Name">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Bing 地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Search" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapLogo_Search">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在 Bing 上搜索</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Search_Name" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapLogo_Search_Name">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Accessibility_Name" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Accessibility_Name">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{Imperial}, {Metric}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Feet" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Feet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 英尺</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Kilometers" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Kilometers">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 千米</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Meters" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Meters">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 米</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Miles" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Miles">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 英里</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Yards" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/MapScaleBar_Yards">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 码</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassEastName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_CompassEastName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>east</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>东</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassNorthName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_CompassNorthName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>north</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>北</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassSouthName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_CompassSouthName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>south</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>南</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassWestName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_CompassWestName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>west</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>西</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeAerialDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>从上从下看的详细视图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeAerialName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>空中</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialShowLabels" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeAerialShowLabels">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>显示标签</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAutoDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeAutoDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在缩放时切换到最佳地图样式</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAutoName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeAutoName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>自动</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeBirdseyeDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeBirdseyeDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>更好角度的空中摄影</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeBirdseyeName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeBirdseyeName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>鸟瞰</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeCollinsBartDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeCollinsBartDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>大伦敦的详细地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeCollinsBartName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeCollinsBartName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>伦敦街道地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeOrdnanceSurveyDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeOrdnanceSurveyDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>户外生活地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeOrdnanceSurveyName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeOrdnanceSurveyName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>地形测量地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeRoadDescription" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeRoadDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>标准道路地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeRoadName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeRoadName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>道路</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeToggleName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_MapTypeToggleName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{MapType}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_RotateLeftName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_RotateLeftName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>向左旋转</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_RotateRightName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_RotateRightName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>向右旋转</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_Slider" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_Slider">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>移动滑块可放大或缩小</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_TrafficHideName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_TrafficHideName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Hide traffic on the map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在地图上隐藏交通信息</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_TrafficShowName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_TrafficShowName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Show traffic on the map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在地图上显示交通信息</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomInName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_ZoomInName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>放大</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomOutName" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_ZoomOutName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>缩小</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomSlider" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NavControl_ZoomSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NokiaLogo_Accessibility_Name" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/NokiaLogo_Accessibility_Name">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Maps by Nokia</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficDescriptionText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficDescriptionText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficDetourText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficDetourText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficEstendtimeText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficEstendtimeText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeAccident" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeAccident">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeAlert" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeAlert">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeCongestion" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeCongestion">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeConstruction" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeConstruction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeDisabledVehicle" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeDisabledVehicle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeMassTransit" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeMassTransit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Transit incident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Public transport incident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Transit incident</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeMiscellaneous" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeMiscellaneous">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeOtherNews" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeOtherNews">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypePlannedEvent" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypePlannedEvent">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeRoadHazard" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeRoadHazard">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeUnknown" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeUnknown">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeWeather" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficIncidentTypeWeather">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficLaneText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficLaneText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeLowImpact" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityTypeLowImpact">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeMinor" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityTypeMinor">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeModerate" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityTypeModerate">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeSerious" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityTypeSerious">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeUnknown" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficSeverityTypeUnknown">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficStarttimeText" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/TrafficStarttimeText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Address_Format" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/VenueMap_Address_Format">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{addressline}, {locality}, {admindistrict} {postcode}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Directory_Label" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/VenueMap_Directory_Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>目录 ({NUM})</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Directory_Other" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Bing.Maps/resources/VenueMap_Directory_Other">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>其他</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OlaAPIHackathon.Win.xr.xml" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/OlaAPIHackathon.Win.xr.xml">
+				<Candidate type="Path">
+					<Value>OlaAPIHackathon.Win.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="CarCategories">
+					<NamedResource name="mini.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/CarCategories/mini.png">
+						<Candidate type="Path">
+							<Value>Assets\CarCategories\mini.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="prime.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/CarCategories/prime.png">
+						<Candidate type="Path">
+							<Value>Assets\CarCategories\prime.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sedan.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/CarCategories/sedan.png">
+						<Candidate type="Path">
+							<Value>Assets\CarCategories\sedan.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="background.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Images/background.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\background.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Car.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Images/Car.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\Car.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="dashboard.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Images/dashboard.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\dashboard.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Images/Logo.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\Logo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="reporticon.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Assets/Images/reporticon.png">
+						<Candidate type="Path">
+							<Value>Assets\Images\reporticon.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Bing.Maps">
+				<NamedResource name="Blocked_Regions_01.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Blocked_Regions_01.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Blocked_Regions_01.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="circleImage-noalpha.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/circleImage-noalpha.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\circleImage-noalpha.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="circleImage.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/circleImage.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\circleImage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CMF.ont" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/CMF.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\CMF.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dashedImage.png" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/dashedImage.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\dashedImage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EnglishEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/EnglishEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EnglishEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EntityLookup.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/EntityLookup.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EntityLookup.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EntityNameLength.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/EntityNameLength.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EntityNameLength.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GermanicEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/GermanicEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\GermanicEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h0.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/h0.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h0.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h1.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/h1.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h1.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h2.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/h2.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h2.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h3.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/h3.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h3.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvariantEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/InvariantEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\InvariantEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LandmarkSchema.ont" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/LandmarkSchema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\LandmarkSchema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LatinEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/LatinEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\LatinEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="map.config" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/map.config">
+					<Candidate type="Path">
+						<Value>Bing.Maps\map.config</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NameCount.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/NameCount.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\NameCount.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NameRoleLcid.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/NameRoleLcid.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\NameRoleLcid.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r0.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/r0.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r0.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r1.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/r1.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r1.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r2.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/r2.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r2.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r3.tile" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/r3.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r3.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ScandinavianEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/ScandinavianEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\ScandinavianEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Schema.ont" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Schema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Schema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields202.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shields202.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields202.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields244.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shields244.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields244.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields39.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shields39.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields39.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SlavicEntityNames.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/SlavicEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\SlavicEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets202.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Streets202.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets202.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets244.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Streets244.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets244.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets39.hlx" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Streets39.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets39.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnifiedStyle.MapStyle" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/UnifiedStyle.MapStyle">
+					<Candidate type="Path">
+						<Value>Bing.Maps\UnifiedStyle.MapStyle</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMapsSchema.ont" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/VenueMapsSchema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\VenueMapsSchema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Font">
+					<NamedResource name="Bing_Maps_Symbol.ttf" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Font/Bing_Maps_Symbol.ttf">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Font\Bing_Maps_Symbol.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Shaders">
+					<NamedResource name="BuildingShaderXYZN-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/BuildingShaderXYZN-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/BuildingShaderXYZN-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/BuildingShaderXYZN.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/BuildingShaderXYZN.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXY-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXY-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXY.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXY.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUV-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUV-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUV.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUV.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZW-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZW-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZW.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZW.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/LineShaderXYNMC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/LineShaderXYNMC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/LineShaderXYNMC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/LineShaderXYNMC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader-downlevel.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/TextRenderingShader-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader-downlevel.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/TextRenderingShader-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader.ps" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/TextRenderingShader.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader.vs" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Shaders/TextRenderingShader.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader.vs</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Bing.Maps/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="FirstView.xbf" uri="ms-resource://698be731-24d0-4d60-809b-fb20b5788035/Files/Views/FirstView.xbf">
+					<Candidate type="Path">
+						<Value>Views\FirstView.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

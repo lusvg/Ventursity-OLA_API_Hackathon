@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\olaapihackathon\olaapihackathon\olaapihackathon.win\obj\x64\release\intermediatexaml\olaapihackathon.win.exe" HashGuid="02e9925b-5441-bd16-d658-973b569da375" />
+    <ReferenceAssembly PathName="c:\users\mypc\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\win81\cirrious.crosscore.dll" HashGuid="f51cf076-e9f9-7893-b7aa-10ded5a79469" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\win81\cirrious.crosscore.windowscommon.dll" HashGuid="33137c4e-381b-0828-9fcf-2ac3014e11f4" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.5.1\lib\win81\cirrious.mvvmcross.dll" HashGuid="c59ba883-98f9-a0fc-9b87-39694ebb8fc3" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\win81\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.plugin.location.3.5.1\lib\win81\cirrious.mvvmcross.plugins.location.dll" HashGuid="7196e430-add4-47ed-b113-446aa295429c" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.plugin.location.3.5.1\lib\win81\cirrious.mvvmcross.plugins.location.windowscommon.dll" HashGuid="41d36e40-da72-5656-66b8-01ac22fa332b" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.5.1\lib\win81\cirrious.mvvmcross.windowscommon.dll" HashGuid="9470c5fd-ff0e-73c7-d67b-3c13969244eb" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\packages\newtonsoft.json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="0b4cdfc1-2257-2e75-23cf-4052e97b309e" />
+    <ReferenceAssembly PathName="d:\olaapihackathon\olaapihackathon\olaapihackathon\bin\release\olaapihackathon.dll" HashGuid="5e4568fe-d1c8-4d74-8ceb-aa1c8d543ef6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
